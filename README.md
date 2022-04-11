@@ -1,1 +1,2 @@
 # Patika
+Patikada yaptığım ödevler :)
